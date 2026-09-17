@@ -1,5 +1,1 @@
-orange
-apple
-banana
-strawberry
-blueberry
+mango
